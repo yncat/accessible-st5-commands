@@ -23,7 +23,7 @@ function main(e){
 	replace("icLp","(弱パンチ)");
 	replace("icMp","(中パンチ)");
 	replace("icHp","(強パンチ)");
-	replace("icMk","(弱キック)");
+	replace("icLk","(弱キック)");
 	replace("icMk","(中キック)");
 	replace("icHk","(強キック)");
 	replace("icGp","(任意のパンチ)");
